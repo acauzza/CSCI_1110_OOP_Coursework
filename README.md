@@ -1,3 +1,3 @@
-# CSCI_1110_OOP_Coursework
+# CSCI_1175_Industry_Projects
 
-This repository contains your coursework for CSCI 1105 - Introduction to Programming at Southwest Tech
+This repository contains your coursework for CSCI 1175_Industry_Projects at Southwest Tech
